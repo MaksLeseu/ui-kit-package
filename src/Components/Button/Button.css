@@ -1,0 +1,19 @@
+.light {
+    background-color: #F8346B;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.button {
+    width: 330px;
+    height: 36px;
+    border-radius: 2px;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    border: none;
+}
