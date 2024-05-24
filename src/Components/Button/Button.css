@@ -9,11 +9,38 @@
 }
 
 .button {
-    width: 330px;
     height: 36px;
     border-radius: 2px;
     font-size: 14px;
     line-height: 20px;
     cursor: pointer;
     border: none;
+}
+
+.outlinedVariant {
+    border: 1px #F8346B solid;
+    border-radius: 2px;
+    background-color: white;
+    color: #F8346B;
+}
+.containedVariant {
+    background-color: #F8346B;
+    color: white;
+}
+.textVariant {
+    color: #F8346B;
+    background-color: white;
+}
+
+.fullWidth {
+    width: 100%;
+}
+.largeSize {
+    width: 330px;
+}
+.mediumSize {
+    width: 212px;
+}
+.smallSize {
+    width: 124px;
 }
