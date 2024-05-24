@@ -1,46 +1,46 @@
 .light {
-    background-color: #F8346B;
-    color: white;
+   background-color: #f8346b;
+   color: white;
 }
 
 .black {
-    background-color: black;
-    color: white;
+   background-color: black;
+   color: white;
 }
 
 .button {
-    height: 36px;
-    border-radius: 2px;
-    font-size: 14px;
-    line-height: 20px;
-    cursor: pointer;
-    border: none;
+   height: 36px;
+   border-radius: 2px;
+   font-size: 14px;
+   line-height: 20px;
+   cursor: pointer;
+   border: none;
 }
 
 .outlinedVariant {
-    border: 1px #F8346B solid;
-    border-radius: 2px;
-    background-color: white;
-    color: #F8346B;
+   border: 1px #f8346b solid;
+   border-radius: 2px;
+   background-color: white;
+   color: #f8346b;
 }
 .containedVariant {
-    background-color: #F8346B;
-    color: white;
+   background-color: #f8346b;
+   color: white;
 }
 .textVariant {
-    color: #F8346B;
-    background-color: white;
+   color: #f8346b;
+   background-color: white;
 }
 
 .fullWidth {
-    width: 100%;
+   width: 100%;
 }
 .largeSize {
-    width: 330px;
+   width: 330px;
 }
 .mediumSize {
-    width: 212px;
+   width: 212px;
 }
 .smallSize {
-    width: 124px;
+   width: 124px;
 }
